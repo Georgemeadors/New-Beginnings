@@ -50,6 +50,7 @@ function new_beginnings_setup() {
 	register_nav_menus(
 		array(
 			'menu-1' => esc_html__( 'Primary', 'new_beginnings' ),
+			'footer-menu' => __('Footer Menu', 'travel-site'),
 		)
 	);
 
