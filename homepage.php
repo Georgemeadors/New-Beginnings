@@ -19,14 +19,14 @@
             <img src="http://new-beginnings.local/wp-content/uploads/2022/06/pexels-tim-mossholder-942317-maze-scaled.jpg" alt="maze icon.">
             <h2>Beginning</h2>
             <h4>
-            <p> This maze depicts a journey for me that is filled with wonder and excitement, as I make the moves that are necessary for me to continue on this unfamiliar path. </p>
+            <p> This maze depicts a journey for me that is filled with wonder and excitement, as I take the steps that are necessary for me to continue on this unfamiliar, but fullfilling path. </p>
             </h4>
         </div>
         <div class="column">
             <img src="http://new-beginnings.local/wp-content/uploads/2022/06/pexels-daria-shevtsova-1356300-neon-1.jpg" alt="neon sign icon.">
             <h2>Middle</h2>
             <h4>
-            <p>Just knowing that everything is connected is not enough for me. I amd driven by my desire to learn as much as I can about the field of technology. </p>
+            <p>Just knowing that everything is connected is not enough for me. I am driven by my desire to learn as much as I can about technology. </p>
             </h4>   
         </div>
         <div class="column">

@@ -35,7 +35,7 @@
 			the_custom_logo();
 				?>
 		</div><!-- .site-branding -->
-
+		
 		<nav id="site-navigation" class="main-navigation">
 			<button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false"><?php esc_html_e( 'Primary Menu', 'travel-site' ); ?></button>
 			<?php
