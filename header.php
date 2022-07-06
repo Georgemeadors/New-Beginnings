@@ -33,8 +33,14 @@
 		<div class="site-branding">
 			<?php
 			the_custom_logo();
+			
 				?>
+			
+				
 		</div><!-- .site-branding -->
+		<div class="header-text"> 
+			<h1>Welcome to My portfolio</h1>
+	    </div>
 		
 		<nav id="site-navigation" class="main-navigation">
 			<button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false"><?php esc_html_e( 'Primary Menu', 'travel-site' ); ?></button>

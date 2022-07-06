@@ -9,11 +9,23 @@
     position: sticky;
     top: 0;
     z-index: 1;
+	display: flex;
 	.site-branding{
+	
 		float: left;
 		margin: 5px 15px;
 		height:100px;
 		width:150px;
+
+	}
+	
+	.header-text{
+		font-family: 'Dancing Script', cursive;
+		position: relative;
+		left: 25%;
+		width:500px;
+		height: 100px;
+		color:black;
 	}
 }
 .main-navigation {
