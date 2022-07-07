@@ -12,6 +12,7 @@
 	<div>
 		<h1 class="hero-text">It's A New Day</h1>
 	</div>
+    <img src="http://new-beginnings.local/wp-content/uploads/2022/06/portrait-man-with-kaleidoscope-effect_23-2148261310.webp" alt="" width="auto" height="300px">
 
 </main>    <!-- This is the start of icon section -->
     <section class="row">

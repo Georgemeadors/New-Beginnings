@@ -7,7 +7,13 @@ main{
     background-position:left;
     background-color:black;
     color: orangered;
-
+    img{
+        float: right;
+        height: 300px;
+        width:auto;
+        margin-top: -70px;
+    }
+ 
 }
 .hero-text{
     font-family: 'Dancing Script', cursive;

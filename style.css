@@ -837,6 +837,12 @@ main {
   background-color: black;
   color: orangered;
 }
+main img {
+  float: right;
+  height: 300px;
+  width: auto;
+  margin-top: -70px;
+}
 
 .hero-text {
   font-family: "Dancing Script", cursive;

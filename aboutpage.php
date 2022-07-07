@@ -17,7 +17,7 @@
 </div> -->
 <section class="info-section" id="aboutSection">
         <div class="infoBox">
-            <img src="http://travel-site.local/wp-content/uploads/2022/05/infobox-img-scaled.jpg" height="490px" width="50%">
+            <img src="http://new-beginnings.local/wp-content/uploads/2022/07/pexels-rene-asmussen-2505053-scaled.jpg" height="490px" width="50%">
         </div>
         <div class="infoBox infoTextbox">
             <h1>Let Me Tell You About My Accomplishments</h1>
