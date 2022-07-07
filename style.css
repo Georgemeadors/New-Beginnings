@@ -849,6 +849,7 @@ main {
 }
 
 .column {
+  margin-top: 130px;
   width: 33.33%;
   height: 200px;
   float: left;
@@ -871,6 +872,7 @@ main {
 
 /* This is the end of icon section  */
 .infoBox {
+  margin-top: 10px;
   width: 50%;
   height: 500px;
   float: left;
@@ -896,12 +898,12 @@ main {
 .wpcf7 input[type=submit] {
   color: black;
   width: 50%;
-  height: auto;
+  height: 60px;
   background-color: brown;
 }
 
 label {
-  color: white;
+  color: black;
 }
 
 .wpcf7 textarea {
@@ -922,7 +924,7 @@ label {
   border-radius: 50px;
   margin-left: 20%;
   width: 60%;
-  height: 700px;
+  height: auto;
   align-items: center;
 }
 .contact-form h2 {

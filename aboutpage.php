@@ -21,13 +21,50 @@
         </div>
         <div class="infoBox infoTextbox">
             <h1>Let Me Tell You About My Accomplishments</h1>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius hic voluptatibus vel cum nisi nulla deleniti aspernatur doloremque libero dolor. Earum explicabo libero atque neque architecto perspiciatis aliquam quas est.
-            Magnam laborum sed dolorem non maxime placeat dolore possimus nisi architecto mollitia, officia harum atque soluta laboriosam voluptas tenetur aliquid dignissimos, dicta minus repellat quis. Illum fugit suscipit molestiae doloremque.
-            Fuga earum totam harum unde asperiores vitae at adipisci in reprehenderit debitis, quo nisi? Architecto vitae voluptatibus maiores! Sunt vitae nulla nostrum repudiandae dignissimos dolorum deserunt, expedita minima veritatis cupiditate?
-           </p>
+            
+            <h2>
+            <p> Before starting on this journey of learning how to code and build webssites, I worked in the mental health field as a counselor for many years. I have always had a concern for the well-being of others.  
+                This state of mind and being, to be of service inspired me to create my first ever website that focused on the homeless crisis that we are faced with today.<br> </p>
+            
+               
+              
+           
+                <p> Following that project, I attempted to express some creativity with my site that was about interior design.<br></p>
+
+
+
+               
+               
+               
+                The space-X website was a collaborative effort with one of my teamates.
+            </p>
+            </h2>
         </div>
     </section>
-
+   
+    <section class="row">
+        <div class="column">
+            <img src="http://new-beginnings.local/wp-content/uploads/2022/07/Capture.png">
+            <h2></h2>
+            <h3>
+            <p> </p>
+            </h3>
+        </div>
+        <div class="column">
+            <img src="http://new-beginnings.local/wp-content/uploads/2022/07/Screenshot-2022-07-06-212424.png-interior.png">
+            <h2>Middle</h2>
+            <h3>
+            <p></p>
+            </h3>   
+        </div>
+        <div class="column">
+            <img src="http://new-beginnings.local/wp-content/uploads/2022/07/Screenshot-2022-07-06-214229.png">
+            <h2>Continuation</h2>
+            <h3>
+            <p> </p>
+            </h3> 
+        </div>
+    </section>
 
 
 
