@@ -641,10 +641,10 @@ textarea {
 .site-header .header-text {
   font-family: "Dancing Script", cursive;
   position: relative;
-  left: 25%;
+  left: 30%;
   width: 500px;
   height: 100px;
-  color: black;
+  color: orangered;
 }
 
 .main-navigation {
@@ -836,12 +836,14 @@ main {
   background-position: left;
   background-color: black;
   color: orangered;
+  padding-top: 10px;
 }
 main img {
   float: right;
-  height: 300px;
+  height: 250px;
   width: auto;
   margin-top: -70px;
+  padding-right: 10px;
 }
 
 .hero-text {

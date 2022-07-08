@@ -10,9 +10,9 @@
 <!--This is the start of the hero section -->
 <main>
 	<div>
-		<h1 class="hero-text">It's A New Day</h1>
+		<h1 class="hero-text">It's A New Day, So let's Be Bold !</h1>
 	</div>
-    <img src="http://new-beginnings.local/wp-content/uploads/2022/06/portrait-man-with-kaleidoscope-effect_23-2148261310.webp" alt="" width="auto" height="300px">
+    <img src="http://new-beginnings.local/wp-content/uploads/2022/07/pexels-tyler-sherrington-12577429-scaled.jpg" alt="" width="auto" height="300px">
 
 </main>    <!-- This is the start of icon section -->
     <section class="row">
@@ -20,14 +20,14 @@
             <img src="http://new-beginnings.local/wp-content/uploads/2022/06/pexels-tim-mossholder-942317-maze-scaled.jpg" alt="maze icon.">
             <h2>Beginning</h2>
             <h3>
-            <p> This maze depicts a journey for me that is filled with wonder and excitement, as I take the steps that are necessary for me to continue on this unfamiliar, but fullfilling path. </p>
+            <p> This maze depicts a journey for me that is filled with wonder and excitement, as I take the steps that are necessary for me to continue on this unfamiliar, but fullfilling path of coding and Web Development. </p>
             </h3>
         </div>
         <div class="column">
             <img src="http://new-beginnings.local/wp-content/uploads/2022/06/pexels-daria-shevtsova-1356300-neon-1.jpg" alt="neon sign icon.">
             <h2>Middle</h2>
             <h3>
-            <p>Just knowing that everything is connected is not enough for me. I am driven by my desire to learn as much as I can about technology. </p>
+            <p>Just knowing that everything is connected is not enough for me. I am driven by my desire to learn as much as I can in the field of technology. </p>
             </h3>   
         </div>
         <div class="column">
