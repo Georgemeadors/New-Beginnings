@@ -39,7 +39,7 @@
 				
 		</div><!-- .site-branding -->
 		<div class="header-text"> 
-			<h1>This is My portfolio</h1>
+			<h1>This is George's portfolio</h1>
 	    </div>
 		
 		<nav id="site-navigation" class="main-navigation">

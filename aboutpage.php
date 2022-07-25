@@ -17,15 +17,15 @@
 </div> -->
 <section class="info-section" id="aboutSection">
         <div class="infoBox">
-            <img src="http://new-beginnings.local/wp-content/uploads/2022/07/pexels-rene-asmussen-2505053-scaled.jpg" height="490px" width="50%">
+            <img src="http://new-beginnings.local/wp-content/uploads/2022/07/20220723_193522-scaled.jpg" height="600px" width="60%">
         </div>
         <div class="infoBox infoTextbox">
             <h1>Let Me Tell You About My Accomplishments</h1>
             
-            <h2>
-            <p> Before starting on this journey of learning how to code and build webssites, I worked in the mental health field as a counselor for many years. I have always had a concern for the well-being of others.  
-                This state of mind and being, to be of service inspired me to create my first ever website that focused on the homeless crisis that we are faced with today.<br> </p>
-            
+            <h3>
+            <p>My name is George Meadors, I'm 72 years of age, formerly incarcerated and blessed with this amazing opportunity here at Bitwise to embark on this journey in the world of technology. Presently I am a Word Presss Apprentice and learning how to build websites in hopes of becoming a developer. <br>Before starting on this journey of learning how to code and build websites, I worked in the mental health field as a counselor for many years. However, following my period of incarceration and as a returning citizen to society, I realized it was a must for me to gain some technical skills.<br>
+
+            <p>My first project focused on the homeless crisis that we are faced with today, in hopes of shedding even more light on this devastating crisis.
                
               
            
@@ -38,14 +38,14 @@
                
                 The space-X website was a collaborative effort with one of my teamates.
             </p>
-            </h2>
+            </h3>
         </div>
     </section>
    
     <section class="row">
         <div class="column">
             <img src="http://new-beginnings.local/wp-content/uploads/2022/07/Capture.png">
-            <h2></h2>
+            <h2>beginning</h2>
             <h3>
             <p> </p>
             </h3>

@@ -5,6 +5,7 @@ main{
     background-size: 50%;
     background-repeat: no-repeat;
     background-position:left;
+   /* background-position-x: -200px; */
     background-color:black;
     color: orangered;
     padding-top: 10px;
@@ -12,18 +13,30 @@ main{
         float: right;
         height: 250px;
         width:auto;
-        margin-top: -70px;
-        padding-right: 10px;
+        margin-top: 15px;
+        padding-right: 4px;
+   
+        border-radius: 25px;
     }
+
  
+}
+.hero-content{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    align-content: center;
 }
 .hero-text{
     font-family: 'Dancing Script', cursive;
     padding-left: 40%;
+    font-size: 50px;
 }
 /* This is the start of icon section  */
 .row{
     margin: 20px 20px;
+    border: 5px;
+    border-radius: 5px;
 }
 .column{
     margin-top: 130px;
@@ -33,12 +46,17 @@ main{
     text-align: left;
     padding:35px 10px;
     /* border:1px solid #000 ; */
+
+    img{
+        height: 400px !important;
+        border-radius: 25px;
+    
+    }
+
     h2{
         text-align: center;
     }
-    img{
-        height: 400px !important;
-    }
+  
 
 }
 .row:after{
