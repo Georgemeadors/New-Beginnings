@@ -902,6 +902,15 @@ main img {
   /* border: 1px solid #000; */
 }
 
+.project-button {
+  background-color: gray;
+  margin-left: 20px;
+}
+.project-button a {
+  text-decoration: none;
+  color: white;
+}
+
 img {
   border: 10px solid gray;
   border-radius: 25px;

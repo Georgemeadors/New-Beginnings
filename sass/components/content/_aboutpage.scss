@@ -24,6 +24,19 @@
     margin: 30px 0px;
     /* border: 1px solid #000; */
 }
+
+
+.project-button{
+    background-color: gray;
+    margin-left: 20px;
+
+    a{
+        text-decoration: none;
+        color: white;
+    }
+}  
+ 
+
 img{
     border: 10px  solid gray;
     border-radius: 25px;
@@ -33,11 +46,14 @@ img{
     line-height: 200%;
 }
 
+
 .info-section:after{
     content: "";
     display: table;
     clear: both;
     
 }
+
+
 
 
