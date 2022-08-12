@@ -23,13 +23,13 @@
             <h1>Let Me Tell You About My Accomplishments</h1>
             
             <h3>
-            <p>My name is George Meadors, I'm 72 years of age, formerly incarcerated and blessed with this amazing opportunity here at Bitwise to embark on this journey in the world of technology. Presently I am a Word Presss Apprentice and learning how to build websites in hopes of becoming a developer. <br>Before starting on this journey of learning how to code and build websites, I worked in the mental health field as a counselor for many years. However, following my period of incarceration and as a returning citizen to society, I realized it was a must for me to gain some technical skills.<br>
+            <p>My name is George Meadors, I'm 72 years of age, formerly incarcerated and blessed with this amazing opportunity here at Bitwise to embark on this journey in the world of technology. Presently I am a Word Presss Apprentice and learning how to build websites in hopes of becoming a developer. <br>Before starting on this journey of learning how to code and build websites, I worked in the mental health field as a counselor for many years. However, following my period of incarceration and as a returning citizen to society, I realized it was a must for me to gain some technical skills.
 
             <p>My first project focused on the homeless crisis that we are faced with today, in hopes of shedding even more light on this devastating crisis.
                
               
            
-                <p> Following that project, I attempted to express some creativity with my site that was about interior design.<br></p>
+            <p> Following that project, I attempted to express some creativity with my site that was about interior design.<br></p>
 
 
 
@@ -44,22 +44,25 @@
    
     <section class="row">
         <div class="column">
+        <button class="project-button"> <a href="https://georgemeadors.github.io/finalproject-wb/">see more</a></button>
             <img src="http://new-beginnings.local/wp-content/uploads/2022/07/Capture.png">
-            <h2>beginning</h2>
+    
             <h3>
             <p> </p>
             </h3>
         </div>
         <div class="column">
+        <button class="project-button"> <a href="https://georgemeadors.github.io/Interior-Design/index.html">see more</a></button>
             <img src="http://new-beginnings.local/wp-content/uploads/2022/07/Screenshot-2022-07-06-212424.png-interior.png">
-            <h2>Middle</h2>
+          
             <h3>
             <p></p>
             </h3>   
         </div>
         <div class="column">
+        <button class="project-button" > <a href="https://georgemeadors.github.io/Space-X-Clone/">see more</a></button>
             <img src="http://new-beginnings.local/wp-content/uploads/2022/07/Screenshot-2022-07-06-214229.png">
-            <h2>Continuation</h2>
+        
             <h3>
             <p> </p>
             </h3> 
